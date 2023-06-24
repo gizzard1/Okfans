@@ -200,4 +200,10 @@ body{
     .contenedor-cuentas{
         height: 90px;
     }
+    .contenedorBotones{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 20px;
+    }
 }
